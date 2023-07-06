@@ -8,7 +8,7 @@
   - [Inspecting Network Protocols](https://github.com/MichaelCruzCC/Azure-Networks-and-Protocols/tree/main)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation](https://github.com/AsiaPonder001/osticket-prereqs)
+  - [osTicket: Installation](https://github.com/MichaelCruzCC/osticket-prereqs/tree/main)
   - [osTicket: Post-Installation Configuration](https://github.com/AsiaPonder001/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AsiaPonder001/Ticket-Lifecycle-Examples)
 <!--
