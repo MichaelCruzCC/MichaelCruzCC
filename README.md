@@ -5,7 +5,7 @@
   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/MichaelCruzCC/Resource-Groups-and-VMs)
   - [Installing on-premises Active Directory within Azure VMs](https://github.com/MichaelCruzCC/Active-Directory-Installation)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MichaelCruzCC/Active-Directory-Configuration/tree/main)
-  - [Inspecting Network Protocols](https://github.com/AsiaPonder001/Azure-Networks-and-Protocols/blob/main/README.md)
+  - [Inspecting Network Protocols](https://github.com/MichaelCruzCC/Azure-Networks-and-Protocols/tree/main)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/AsiaPonder001/osticket-prereqs)
