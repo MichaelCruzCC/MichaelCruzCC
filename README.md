@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Michael Cruz and I'm an IT Professional👋
 
 <!--
 **MichaelCruzCC/MichaelCruzCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
