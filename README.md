@@ -3,7 +3,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/MichaelCruzCC/Resource-Groups-and-VMs)
-  - [Installing on-premises Active Directory within Azure VMs](https://github.com/AsiaPonder001/Active-Directory-Installation)
+  - [Installing on-premises Active Directory within Azure VMs](https://github.com/MichaelCruzCC/Active-Directory-Installation)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AsiaPonder001/Active-Directory-Configuration/blob/main/README.md)
   - [Inspecting Network Protocols](https://github.com/AsiaPonder001/Azure-Networks-and-Protocols/blob/main/README.md)
 
