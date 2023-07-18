@@ -9,8 +9,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/MichaelCruzCC/osticket-prereqs/tree/main)
-  - [osTicket: Post-Installation Configuration](https://github.com/AsiaPonder001/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/AsiaPonder001/Ticket-Lifecycle-Examples)
+  - [osTicket: Post-Installation Configuration](https://github.com/MichaelCruzCC/osTicket-Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/MichaelCruzCC/Ticket-Lifecycle-Examples)
 <!--
 **MichaelCruzCC/MichaelCruzCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
